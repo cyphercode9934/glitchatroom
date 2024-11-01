@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/glitchatroom/static/css/main.53a1c7a5.css",
+    "main.js": "/glitchatroom/static/js/main.ff4fdd4c.js",
+    "static/media/amogus.png": "/glitchatroom/static/media/amogus.30f2054c6e00dbe98744.png",
+    "index.html": "/glitchatroom/index.html",
+    "main.53a1c7a5.css.map": "/glitchatroom/static/css/main.53a1c7a5.css.map",
+    "main.ff4fdd4c.js.map": "/glitchatroom/static/js/main.ff4fdd4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a1c7a5.css",
+    "static/js/main.ff4fdd4c.js"
+  ]
+}
