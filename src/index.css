@@ -38,7 +38,7 @@ body{
 
 .chatContainer{
   max-width: 600px;
-  margin: 9% auto 0;
+  margin: 15vh auto 0;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -201,7 +201,7 @@ body{
   outline: none;
   transition: all 0.3s ease;
   position: relative;
-  width: calc(100% - (7.45em + 10px));
+  width: calc(100% - (7.5em + 10px));
   margin-right: 10px;
 }
 
@@ -274,6 +274,9 @@ body{
   .titleUser{
     font-size: 2rem;
   }
+  .chatContainer{
+    margin: 15vh auto 0;
+  }
 }
 
 @media only screen and (max-width: 400px){
@@ -281,7 +284,7 @@ body{
     font-size: 1.25rem;
   }
   .titleUser{
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
   .chatUser{
     font-size: 0.625rem;
@@ -294,7 +297,7 @@ body{
   }
   .inputSpace{
     font-size: 0.875rem;
-    width: calc(100% - (7.66em + 10px));
+    width: calc(100% - (7.7em + 10px));
   }
 }
 
